@@ -5,7 +5,7 @@ This is my solution for the competition enlisted on http://selfdrivingcars.mit.e
 
 I have also added an image which shows my score.(73.36) 
 
-The leaderboard starts at 75.83 ----> http://selfdrivingcars.mit.edu/leaderboard/
+The leaderboard starts at 75.83 ----> https://selfdrivingcars.mit.edu/deeptraffic-leaderboard-1-1/
 
 I'm working on different types of activation function for the hidden layers. Thats the right direcion to go, to find a sweet spot for this problem.
 
